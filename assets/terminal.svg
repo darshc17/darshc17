@@ -1,0 +1,39 @@
+<svg fill="none" width="440" height="260" viewBox="0 0 440 260" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1; }
+    .header { fill: #161b22; }
+    .dot-red { fill: #ff5f56; }
+    .dot-yellow { fill: #ffbd2e; }
+    .dot-green { fill: #27c93f; }
+    .title-text { font-family: 'JetBrains Mono', monospace; font-size: 12px; fill: #8b949e; }
+    .cmd { font-family: 'JetBrains Mono', monospace; font-size: 13px; fill: #38bdf8; font-weight: 600; }
+    .txt { font-family: 'JetBrains Mono', monospace; font-size: 12px; fill: #c9d1d9; }
+    .hl { fill: #38bdf8; font-weight: 600; }
+    .green { fill: #4ade80; }
+  </style>
+
+  <rect width="440" height="260" rx="10" class="bg"/>
+  <path d="M0 10C0 4.47715 4.47715 0 10 0H430C435.523 0 440 4.47715 440 10V35H0V10Z" class="header"/>
+
+  <!-- Window Control Buttons -->
+  <circle cx="20" cy="18" r="6" class="dot-red"/>
+  <circle cx="40" cy="18" r="6" class="dot-yellow"/>
+  <circle cx="60" cy="18" r="6" class="dot-green"/>
+  <text x="220" y="22" text-anchor="middle" class="title-text">darsh@liftuplabs:~</text>
+
+  <!-- Terminal Content -->
+  <g transform="translate(20, 55)">
+    <text x="0" y="0" class="cmd">$ whoami</text>
+    <text x="0" y="20" class="txt">Darsh Changediya · <tspan class="hl">Software Engineer @ LiftUp Labs</tspan></text>
+
+    <text x="0" y="50" class="cmd">$ cat focus.txt</text>
+    <text x="0" y="70" class="txt">📱 React Native &amp; Expo Mobile Apps</text>
+    <text x="0" y="90" class="txt">⚡ Hono.js &amp; High-Speed Microservices</text>
+
+    <text x="0" y="120" class="cmd">$ cat skills.json</text>
+    <text x="0" y="140" class="txt">["React", "Next.js", "Python", "Java", "PostgreSQL", "AI/ML"]</text>
+
+    <text x="0" y="170" class="cmd">$ echo $STATUS</text>
+    <text x="0" y="190" class="green">"Architecting production-ready full-stack systems! 🚀"</text>
+  </g>
+</svg>

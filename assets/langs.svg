@@ -1,0 +1,38 @@
+<svg fill="none" width="360" height="195" viewBox="0 0 360 195" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0c0a09; stroke: #1e293b; stroke-width: 1; }
+    .title { font-family: 'JetBrains Mono', monospace; font-weight: 700; font-size: 16px; fill: #38bdf8; }
+    .lang-name { font-family: 'Inter', sans-serif; font-size: 13px; fill: #cbd5e1; font-weight: 600; }
+    .lang-pct { font-family: 'JetBrains Mono', monospace; font-size: 12px; fill: #94a3b8; }
+  </style>
+
+  <rect width="360" height="195" rx="10" class="bg"/>
+
+  <text x="25" y="35" class="title">🚀 Most Used Languages</text>
+
+  <g transform="translate(25, 55)">
+    <!-- TypeScript -->
+    <text x="0" y="15" class="lang-name">TypeScript / JS</text>
+    <text x="310" y="15" text-anchor="end" class="lang-pct">42%</text>
+    <rect x="0" y="22" width="310" height="8" rx="4" fill="#1e293b"/>
+    <rect x="0" y="22" width="130" height="8" rx="4" fill="#3178c6"/>
+
+    <!-- Python -->
+    <text x="0" y="50" class="lang-name">Python (AI/ML)</text>
+    <text x="310" y="50" text-anchor="end" class="lang-pct">28%</text>
+    <rect x="0" y="57" width="310" height="8" rx="4" fill="#1e293b"/>
+    <rect x="0" y="57" width="86" height="8" rx="4" fill="#38bdf8"/>
+
+    <!-- Java -->
+    <text x="0" y="85" class="lang-name">Java &amp; Microservices</text>
+    <text x="310" y="85" text-anchor="end" class="lang-pct">18%</text>
+    <rect x="0" y="92" width="310" height="8" rx="4" fill="#1e293b"/>
+    <rect x="0" y="92" width="55" height="8" rx="4" fill="#f59e0b"/>
+
+    <!-- HTML / CSS -->
+    <text x="0" y="120" class="lang-name">HTML &amp; CSS</text>
+    <text x="310" y="120" text-anchor="end" class="lang-pct">12%</text>
+    <rect x="0" y="127" width="310" height="8" rx="4" fill="#1e293b"/>
+    <rect x="0" y="127" width="37" height="8" rx="4" fill="#e34f26"/>
+  </g>
+</svg>

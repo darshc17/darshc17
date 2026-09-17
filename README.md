@@ -1,128 +1,189 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1d84e0,100:38bdf8&height=190&section=header&text=Hi%20There,%20I'm%20Darsh%20Changediya!👋&fontSize=38&fontColor=ffffff&fontAlignY=38" width="100%" alt="Header Banner" />
-  <img src="https://komarev.com/ghpvc/?username=darshc17&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
+
+<!-- ⚡ Animated Banner (stored in assets/banner.svg) -->
+<img src="./assets/banner.svg" alt="Darsh Changediya — Full Stack & Mobile Developer | AI/ML Enthusiast" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=darshc17&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=38bdf8&center=true&vCenter=true&width=900&lines=Building+High-Performance+Mobile+%26+Web+Apps;Architecting+Microservices+with+Hono.js+%26+Node.js;Engineering+Cross-Platform+Apps+with+React+Native+%26+Expo;Training+AI%2FML+Models+%26+Automated+Python+Pipelines" alt="Typing SVG" />
+
 </div>
 
-<br>
+<br/>
 
-<table align="center" width="100%">
+<table align="center" border="0">
 <tr>
-<td width="48%" align="center" valign="middle">
+<td width="45%" align="center" valign="middle">
 
-<!-- Terminal Card Graphic -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3500&pause=1000&color=38BDF8&background=0D1117&center=false&vCenter=false&width=435&height=240&lines=%24+whoami%0ADarsh+Changediya+%C2%B7+Full+Stack+Dev;%24+cat+current_work.txt%0A%F0%9F%94%A7+LiftUp+Labs+Enterprise+Apps;%24+cat+skills.txt%0A%F0%9F%8D%B1+React+Native+%C2%B7+Expo+%C2%B7+Hono.js%0A%E2%98%81%EF%B8%8F+AI%2FML+Models+%C2%B7+Python+%C2%B7+Java;%24+echo+%24FUN_FACT%0A%22I+build+high-performance+mobile+%26+web+apps.%22" alt="Terminal Card Intro" />
+<!-- 🖥️ Animated Terminal Card (stored in assets/terminal.svg) -->
+<img src="./assets/terminal.svg" alt="About Darsh — terminal card" width="440"/>
 
 </td>
-<td width="52%" valign="top">
-<h3>👨‍💻 About Me</h3>
-<ul>
-<li>💼 Currently working at <strong>LiftUp Labs</strong></li>
-<li>📱 Specialized in <strong>React Native, Expo & Hono.js</strong> for mobile & web apps</li>
-<li>🤖 Experienced in <strong>AI/ML Model Training</strong> & automated <strong>Python Scripting</strong></li>
-<li>☕ Skilled in <strong>Java, Postman API Testing, PostgreSQL & MongoDB</strong></li>
-<li>📧 Reach me at <strong><a href="mailto:darshc17@gmail.com">darshc17@gmail.com</a></strong></li>
-<li>⚡ Fun Fact: <em>I love training ML models and building high-performance microservices.</em></li>
-</ul>
-<br>
+<td width="55%" valign="middle">
+
+### 👨💻 <b><code>About Me</code></b>
+
+- 💼 <b><code>Experience</code></b> ➔ <b><code>Software Engineer @ LiftUp Labs</code></b>
+- 💡 <b><code>Specialization</code></b> ➔ <b><code>Cross-Platform Mobile</code></b> · <b><code>Full-Stack Web</code></b> · <b><code>Backend Microservices</code></b>
+- 💬 <b><code>Tech Focus</code></b> ➔ <b><code>React Native</code></b> · <b><code>Expo</code></b> · <b><code>Hono.js</code></b> · <b><code>React</code></b> · <b><code>Python</code></b> · <b><code>Java</code></b> · <b><code>PostgreSQL</code></b>
+- 🚀 <b><code>Engineering Mission</code></b> ➔ <b><code>Architecting High-Concurrency Mobile &amp; Production-Grade Systems</code></b>
+
+<br/>
+
 <p>
-<a href="https://github.com/darshc17"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/darsh-changediya-051981289/"><img src="https://img.shields.io/badge/LinkedIn-1d84e0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:darshc17@gmail.com"><img src="https://img.shields.io/badge/Email-darshc17%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://github.com/darshc17" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-0c0a09?style=for-the-badge&logo=github&logoColor=38bdf8" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/darsh-changediya-051981289/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0284C7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:darshc17@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
+
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
 
 <div align="center">
-  <h2>🛠️ Tech Arsenal</h2>
+
+## 🛠️ <b><code>Tech Arsenal</code></b>
+
 </div>
 
-### 📱 Mobile & Frontend
-<table width="100%">
+### 📱 <b><code>Mobile &amp; Frontend Engineering</code></b>
+
+<table>
 <tr>
-<td align="center" width="95"><img src="https://cdn.simpleicons.org/react/61DAFB" width="45" alt="React Native"/><br>React Native</td>
-<td align="center" width="95"><img src="https://cdn.simpleicons.org/expo/38bdf8" width="45" alt="Expo"/><br>Expo</td>
-<td align="center" width="95"><img src="https://skillicons.dev/icons?i=react" width="45" alt="React"/><br>React.js</td>
-<td align="center" width="95"><img src="https://skillicons.dev/icons?i=nextjs" width="45" alt="Next.js"/><br>Next.js</td>
-<td align="center" width="95"><img src="https://skillicons.dev/icons?i=ts" width="45" alt="TypeScript"/><br>TypeScript</td>
-<td align="center" width="95"><img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript"/><br>JavaScript</td>
-<td align="center" width="95"><img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind"/><br>Tailwind</td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/react/61DAFB" width="45"/><br><b><code>React Native</code></b></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/expo/38bdf8" width="45"/><br><b><code>Expo</code></b></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="45"/><br><b><code>React</code></b></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br><b><code>Next.js</code></b></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="45"/><br><b><code>TypeScript</code></b></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="45"/><br><b><code>JavaScript</code></b></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br><b><code>Tailwind</code></b></td>
+</tr>
+<tr>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="45"/><br><b><code>HTML5</code></b></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="45"/><br><b><code>CSS3</code></b></td>
 </tr>
 </table>
 
-### ⚙️ Backend, AI/ML & Tools
-<table width="100%">
+### ⚙️ <b><code>Backend &amp; API Infrastructure</code></b>
+
+<table>
 <tr>
-<td align="center" width="95"><img src="https://cdn.simpleicons.org/hono/E36002" width="45" alt="Hono.js"/><br>Hono.js</td>
-<td align="center" width="95"><img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js"/><br>Node.js</td>
-<td align="center" width="95"><img src="https://skillicons.dev/icons?i=express" width="45" alt="Express"/><br>Express.js</td>
-<td align="center" width="95"><img src="https://skillicons.dev/icons?i=java" width="45" alt="Java"/><br>Java</td>
-<td align="center" width="95"><img src="https://skillicons.dev/icons?i=python" width="45" alt="Python"/><br>Python</td>
-<td align="center" width="95"><img src="https://skillicons.dev/icons?i=postman" width="45" alt="Postman"/><br>Postman</td>
-<td align="center" width="95"><img src="https://skillicons.dev/icons?i=postgres" width="45" alt="PostgreSQL"/><br>PostgreSQL</td>
-<td align="center" width="95"><img src="https://skillicons.dev/icons?i=mongodb" width="45" alt="MongoDB"/><br>MongoDB</td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/hono/E36002" width="45"/><br><b><code>Hono.js</code></b></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br><b><code>Node.js</code></b></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="45"/><br><b><code>Express</code></b></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="45"/><br><b><code>Python</code></b></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="45"/><br><b><code>Java</code></b></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=postman" width="45"/><br><b><code>REST APIs</code></b></td>
 </tr>
 </table>
 
-<br>
+### 🗄️ <b><code>Databases &amp; Architecture</code></b>
 
-<div align="center">
-  <h2>🚀 Featured Projects</h2>
-</div>
-
-<table width="100%">
-<thead>
+<table>
 <tr>
-<th align="left">🎯 Project</th>
-<th align="left">📝 Description</th>
-<th align="center">🧰 Tech Stack</th>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" width="45"/><br><b><code>PostgreSQL</code></b></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br><b><code>MongoDB</code></b></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="45"/><br><b><code>MySQL</code></b></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=sqlite" width="45"/><br><b><code>SQLite</code></b></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=redis" width="45"/><br><b><code>Redis</code></b></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=prisma" width="45"/><br><b><code>Prisma</code></b></td>
 </tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">🏢 <strong><a href="https://github.com/darshc17/ProTrack-Elite">ProTrack-Elite</a></strong></td>
-<td align="left">High-performance project tracking and task management system engineered for developer workflow productivity.</td>
-<td align="center"><code>JavaScript</code> <code>React</code> <code>Node.js</code></td>
-</tr>
-<tr>
-<td align="left">🦷 <strong><a href="https://github.com/darshc17/dental_erp">Dental ERP System</a></strong></td>
-<td align="left">Comprehensive ERP suite for dental clinic management — managing appointments, patient history, and clinic billing.</td>
-<td align="center"><code>TypeScript</code> <code>React</code> <code>Node.js</code></td>
-</tr>
-<tr>
-<td align="left">🚀 <strong><a href="https://github.com/darshc17">LiftUp Labs Enterprise Apps</a></strong></td>
-<td align="left">Cross-platform mobile and web applications powering LiftUp Labs workflows with high-speed Hono microservices.</td>
-<td align="center"><code>React Native</code> <code>Hono.js</code> <code>PostgreSQL</code></td>
-</tr>
-<tr>
-<td align="left">🎵 <strong><a href="https://github.com/darshc17/music-genre-classifier">Music Genre Classifier</a></strong></td>
-<td align="left">AI/ML audio classification model pipeline categorizing music genres using Python and feature extraction.</td>
-<td align="center"><code>Python</code> <code>AI / ML</code> <code>Data Science</code></td>
-</tr>
-<tr>
-<td align="left">🌳 <strong><a href="https://github.com/darshc17/heap-visualizer">Heap Visualizer</a></strong></td>
-<td align="left">Interactive data structure visualizer demonstrating heap tree operations, bubble-up, and heapify algorithms.</td>
-<td align="center"><code>JavaScript</code> <code>Algorithms</code> <code>CSS3</code></td>
-</tr>
-</tbody>
 </table>
 
-<br>
+### 🤖 <b><code>AI &amp; Machine Learning Ecosystem</code></b>
+
+<table>
+<tr>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=scikitlearn" width="45"/><br><b><code>Scikit-Learn</code></b></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br><b><code>TensorFlow</code></b></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=pytorch" width="45"/><br><b><code>PyTorch</code></b></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/pandas/38bdf8" width="45"/><br><b><code>Pandas</code></b></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/numpy/0284c7" width="45"/><br><b><code>NumPy</code></b></td>
+<td align="center" width="90"><img src="https://cdn.simpleicons.org/jupyter/F37626" width="45"/><br><b><code>Jupyter</code></b></td>
+</tr>
+</table>
+
+### ☁️ <b><code>DevOps, Cloud &amp; Tooling</code></b>
+
+<table>
+<tr>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="45"/><br><b><code>Docker</code></b></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="45"/><br><b><code>Git</code></b></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="45"/><br><b><code>GitHub</code></b></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="45"/><br><b><code>CI/CD</code></b></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="45"/><br><b><code>Linux</code></b></td>
+<td align="center" width="90"><img src="https://skillicons.dev/icons?i=postman" width="45"/><br><b><code>Postman</code></b></td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
-  <h2>📊 GitHub Analytics</h2>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=darshc17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=9ca3af&icon_color=818cf8&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshc17&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=1D84E0&currStreakLabel=60A5FA" alt="GitHub Streak" width="48%" />
+
+## 🚀 <b><code>Featured Deployments</code></b>
+
 </div>
 
-<br>
+| 🎯 <b><code>Project</code></b> | 📝 <b><code>Architecture &amp; System Capabilities</code></b> | 🧰 <b><code>Stack</code></b> |
+|:---|:---|:---:|
+| 🏢 <a href="https://github.com/darshc17/ProTrack-Elite" target="_blank" rel="noopener noreferrer"><b><code>ProTrack-Elite</code></b></a> | 📈 <b>Developer Productivity &amp; Project Tracking Platform</b> engineered for high-throughput task workflows &amp; task state synchronization. | `JavaScript` `React` `Node.js` |
+| 🦷 <a href="https://github.com/darshc17/dental_erp" target="_blank" rel="noopener noreferrer"><b><code>Dental ERP System</code></b></a> | 🏥 <b>Enterprise Clinic Management Suite</b> featuring patient records management, dynamic appointment scheduling &amp; billing pipelines. | `TypeScript` `React` `Node.js` |
+| 🚀 <a href="https://github.com/darshc17" target="_blank" rel="noopener noreferrer"><b><code>LiftUp Labs Mobile &amp; Microservices</code></b></a> | ⚡ <b>Cross-Platform Mobile Applications</b> powering enterprise workflows with <b>Expo</b> &amp; ultra-fast <b>Hono.js</b> microservice APIs. | `React Native` `Hono.js` `PostgreSQL` |
+| 🎵 <a href="https://github.com/darshc17/music-genre-classifier" target="_blank" rel="noopener noreferrer"><b><code>Music Genre Classifier</code></b></a> | 🎧 <b>AI/ML Audio Processing Pipeline</b> categorizing music tracks using acoustic feature extraction, spectrogram analysis &amp; ML classification. | `Python` `AI/ML` `Pandas` |
+| 🌳 <a href="https://github.com/darshc17/heap-visualizer" target="_blank" rel="noopener noreferrer"><b><code>Heap Visualizer</code></b></a> | 🧠 <b>Interactive Algorithm Execution Visualizer</b> rendering binary heap tree structures, heapify transformations &amp; sorting animations. | `JavaScript` `Algorithms` `CSS3` |
+
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1d84e0,100:38bdf8&height=100&section=footer" width="100%" alt="Footer Wave" />
-  <p><em>⭐ Feel free to explore my repos and drop a star if you like my work! ⭐</em></p>
+
+## 📊 <b><code>Engineering Analytics</code></b>
+
+<!-- Streak stats -->
+<img src="https://streak-stats.demolab.com?user=darshc17&theme=dark&hide_border=true&background=0C0A09&ring=38BDF8&fire=0284C7&currStreakLabel=38BDF8&sideNums=38BDF8&dates=D6D3D1&v=6" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- Stats & Top Languages cards -->
+<table align="center" border="0">
+<tr>
+<td><img src="./assets/stats.svg" alt="Stats card" width="490"/></td>
+<td><img src="./assets/langs.svg" alt="Languages card" width="360"/></td>
+</tr>
+</table>
+
+<br/>
+
+<!-- 📈 Contribution Activity Graph -->
+<img src="./assets/activity.svg" alt="Contribution Activity Graph" width="100%"/>
+
 </div>
 
+<br/>
 
+<div align="center">
+
+<blockquote align="center">
+<h3>💡 <b><code>Developer Philosophy</code></b></h3>
+<b><code>Build</code> ➔ <code>Break</code> ➔ <code>Learn</code> ➔ <code>Improve</code> ➔ <code>Repeat</code></b>
+<br/><br/>
+<i>"The most effective way to master technology is by <b>engineering real systems</b>, solving <b>hard problems</b>, and continuously raising the bar of excellence."</i>
+</blockquote>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0a09,50:0284c7,100:38bdf8&height=120&section=footer" width="100%"/>
+
+<br/>
+
+<p>
+<a href="https://github.com/darshc17?tab=repositories" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Open%20Source-Collaborations%20Welcome-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/></a>
+<a href="mailto:darshc17@gmail.com"><img src="https://img.shields.io/badge/Get%20In%20Touch-Let's%20Build-38bdf8?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
+</p>
+
+<b>⭐ <code>If you find my work interesting, feel free to explore and star my repositories!</code> 🚀</b>
+
+</div>

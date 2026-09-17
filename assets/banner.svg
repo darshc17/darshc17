@@ -1,0 +1,43 @@
+<svg fill="none" width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0c0a09; }
+    .title { font-family: 'JetBrains Mono', 'Fira Code', monospace, sans-serif; font-weight: 800; font-size: 32px; fill: #ffffff; }
+    .subtitle { font-family: 'Inter', system-ui, sans-serif; font-weight: 500; font-size: 16px; fill: #38bdf8; letter-spacing: 2px; }
+    .tag { font-family: 'JetBrains Mono', monospace; font-size: 12px; fill: #94a3b8; }
+    .accent-glow { filter: blur(40px); opacity: 0.35; }
+    .border-line { stroke: #1e293b; stroke-width: 1; }
+  </style>
+
+  <rect width="900" height="200" rx="12" class="bg"/>
+
+  <!-- Background Gradients & Glows -->
+  <circle cx="150" cy="50" r="100" fill="#0284c7" class="accent-glow"/>
+  <circle cx="750" cy="150" r="120" fill="#38bdf8" class="accent-glow"/>
+
+  <!-- Border -->
+  <rect x="1" y="1" width="898" height="198" rx="11" fill="none" class="border-line"/>
+
+  <!-- Decorative Grid Lines -->
+  <path d="M0 40 H900 M0 80 H900 M0 120 H900 M0 160 H900" stroke="#1e293b" stroke-opacity="0.3" stroke-dasharray="4 4"/>
+  <path d="M150 0 V200 M300 0 V200 M450 0 V200 M600 0 V200 M750 0 V200" stroke="#1e293b" stroke-opacity="0.3" stroke-dasharray="4 4"/>
+
+  <!-- Main Content -->
+  <g transform="translate(50, 75)">
+    <!-- Cyan Accent Pill -->
+    <rect x="0" y="-35" width="180" height="24" rx="12" fill="#0284c7" fill-opacity="0.2" stroke="#38bdf8" stroke-width="1"/>
+    <text x="12" y="-19" class="tag" fill="#38bdf8" font-weight="600">⚡ FULL STACK &amp; MOBILE</text>
+
+    <!-- Name Title -->
+    <text x="0" y="25" class="title">DARSH CHANGEDIYA</text>
+
+    <!-- Subtitle -->
+    <text x="0" y="55" class="subtitle">REACT NATIVE · EXPO · HONO.JS · AI/ML · ENTERPRISE SYSTEMS</text>
+  </g>
+
+  <!-- Right Decorative Elements -->
+  <g transform="translate(680, 60)">
+    <rect x="0" y="0" width="170" height="80" rx="8" fill="#18181b" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.4"/>
+    <text x="15" y="30" font-family="monospace" font-size="13" fill="#38bdf8">λ darshc17 --build</text>
+    <text x="15" y="55" font-family="monospace" font-size="12" fill="#22c65e">✔ Status: Active</text>
+  </g>
+</svg>
