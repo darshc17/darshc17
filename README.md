@@ -142,23 +142,23 @@
 
 ## 📊 <b><code>Engineering Analytics</code></b>
 
-<!-- Streak stats -->
+<!-- Streak stats (Live API) -->
 <img src="https://streak-stats.demolab.com?user=darshc17&theme=dark&hide_border=true&background=0C0A09&ring=38BDF8&fire=0284C7&currStreakLabel=38BDF8&sideNums=38BDF8&dates=D6D3D1&v=6" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<!-- Stats & Top Languages cards -->
+<!-- Stats & Top Languages live GitHub API cards -->
 <table align="center" border="0">
 <tr>
-<td><img src="./assets/stats.svg" alt="Stats card" width="490"/></td>
-<td><img src="./assets/langs.svg" alt="Languages card" width="360"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=darshc17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0c0a09&title_color=38bdf8&text_color=9ca3af&icon_color=38bdf8&count_private=true" alt="Stats card" width="490"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshc17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0c0a09&title_color=38bdf8&text_color=9ca3af" alt="Languages card" width="360"/></td>
 </tr>
 </table>
 
 <br/>
 
-<!-- 📈 Contribution Activity Graph -->
-<img src="./assets/activity.svg" alt="Contribution Activity Graph" width="100%"/>
+<!-- 📈 Contribution Activity Graph (Live API) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshc17&theme=react-dark&bg_color=0c0a09&color=38bdf8&line=38bdf8&point=0284c7&hide_border=true" alt="Contribution Activity Graph" width="100%"/>
 
 </div>
 
